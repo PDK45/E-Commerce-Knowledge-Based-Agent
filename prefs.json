@@ -1,0 +1,9 @@
+{
+  "brand_weights": {},
+  "category_weights": {},
+  "price_sensitivity": 1.42,
+  "rating_weight": 1.0,
+  "brand_loyalty": 1.0,
+  "loyalty_points": 0,
+  "preferred_brand_temp": ""
+}

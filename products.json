@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "name": "XMobile MOB Model 1",
+    "category": "Mobiles",
+    "brand": "XMobile",
+    "price": 24542,
+    "rating": 3.6,
+    "stock": 26,
+    "tags": [
+      "4k",
+      "ultrabook",
+      "sleep-tracking"
+    ],
+    "discount": 30,
+    "reviews": 88,
+    "shipping_time_days": 4,
+    "description": "XMobile MOB Model 1 with features: 4k, ultrabook, sleep-tracking."
+  },
+  {
+    "id": 2,
+    "name": "Verno MOB Model 2",
+    "category": "Mobiles",
+    "brand": "Verno",
+    "price": 43852,
+    "rating": 4.0,
+    "stock": 3,
+    "tags": [
+      "long-battery",
+      "lightweight",
+      "fitness-tracking"
+    ],
+    "discount": 20,
+    "reviews": 693,
+    "shipping_time_days": 7,
+    "description": "Verno MOB Model 2 with features: long-battery, lightweight, fitness-tracking."
+  },
+  {
+    "id": 3,
+    "name": "ZTech MOB Model 3",
+    "category": "Mobiles",
+    "brand": "ZTech",
+    "price": 17733,
+    "rating": 3.5,
+    "stock": 27,
+    "tags": [
+      "wireless-charging",
+      "gaming",
+      "voice-assist"
+    ],
+    "discount": 15,
+    "reviews": 153,
+    "shipping_time_days": 1,
+    "description": "ZTech MOB Model 3 with features: wireless-charging, gaming, voice-assist."
+  },
+  {
+    "id": 4,
+    "name": "NovaTel MOB Model 4",
+    "category": "Mobiles",
+    "brand": "NovaTel",
+    "price": 54974,
+    "rating": 4.2,
+    "stock": 2,
+    "tags": [
+      "gaming",
+      "smart-home",
+      "lightweight"
+    ],
+    "discount": 5,
+    "reviews": 1628,
+    "shipping_time_days": 1,
+    "description": "NovaTel MOB Model 4 with features: gaming, smart-home, lightweight."
+  },
+  {
+    "id": 5,
+    "name": "NovaTel MOB Model 5",
+    "category": "Mobiles",
+    "brand": "NovaTel",
+    "price": 66713,
+    "rating": 4.1,
+    "stock": 30,
+    "tags": [
+      "4k",
+      "ssd",
+      "sleep-tracking"
+    ],
+    "discount": 0,
+    "reviews": 1584,
+    "shipping_time_days": 3,
+    "description": "NovaTel MOB Model 5 with features: 4k, ssd, sleep-tracking."
+  },
+  {
+    "id": 6,
+    "name": "NovaTel MOB Model 6",
+    "category": "Mobiles",
+    "brand": "NovaTel",
+    "price": 41188,
+    "rating": 4.7,
+    "stock": 13,
+    "tags": [
+      "sleep-tracking",
+      "voice-assist",
+      "portable"
+    ],
+    "discount": 20,
+    "reviews": 1166,
+    "shipping_time_days": 3,
+    "description": "NovaTel MOB Model 6 with features: sleep-tracking, voice-assist, portable."
+  },
+  {
+    "id": 7,
+    "name": "XMobile MOB Model 7",
+    "category": "Mobiles",
+    "brand": "XMobile",
+    "price": 33098,
+    "rating": 4.8,
+    "stock": 41,
+    "tags": [
+      "hdd",
+      "mirrorless",
+      "smart-home"
+    ],
+    "discount": 20,
+    "reviews": 1317,
+    "shipping_time_days": 7,
+    "description": "XMobile MOB Model 7 with features: hdd, mirrorless, smart-home."
+  },
+  {
+    "id": 8,
+    "name": "WorkMate LAP Model 1",
+    "category": "Laptops",
+    "brand": "WorkMate",
+    "price": 146666,
+    "rating": 4.7,
+    "stock": 33,
+    "tags": [
+      "smart-home",
+      "mirrorless",
+      "heart-rate"
+    ],
+    "discount": 20,
+    "reviews": 75,
+    "shipping_time_days": 7,
+    "description": "WorkMate LAP Model 1 with features: smart-home, mirrorless, heart-rate."
+  },
+  {
+    "id": 9,
+    "name": "DeskGear LAP Model 2",
+    "category": "Laptops",
+    "brand": "DeskGear",
+    "price": 125135,
+    "rating": 4.7,
+    "stock": 31,
+    "tags": [
+      "smart-home",
+      "4k",
+      "long-battery"
+    ],
+    "discount": 10,
+    "reviews": 700,
+    "shipping_time_days": 5,
+    "description": "DeskGear LAP Model 2 with features: smart-home, 4k, long-battery."
+  },
+  {
+    "id": 10,
+    "name": "UltraSys LAP Model 3",
+    "category": "Laptops",
+    "brand": "UltraSys",
+    "price": 145856,
+    "rating": 3.6,
+    "stock": 29,
+    "tags": [
+      "dslr",
+      "stylus",
+      "wireless-charging"
+    ],
+    "discount": 10,
+    "reviews": 43,
+    "shipping_time_days": 2,
+    "description": "UltraSys LAP Model 3 with features: dslr, stylus, wireless-charging."
+  },
+  {
+    "id": 11,
+    "name": "WorkMate LAP Model 4",
+    "category": "Laptops",
+    "brand": "WorkMate",
+    "price": 41554,
+    "rating": 4.7,
+    "stock": 23,
+    "tags": [
+      "noise-canceling",
+      "heart-rate",
+      "dual-sim"
+    ],
+    "discount": 15,
+    "reviews": 1099,
+    "shipping_time_days": 5,
+    "description": "WorkMate LAP Model 4 with features: noise-canceling, heart-rate, dual-sim."
+  },
+  {
+    "id": 12,
+    "name": "NotePro LAP Model 5",
+    "category": "Laptops",
+    "brand": "NotePro",
+    "price": 113728,
+    "rating": 3.9,
+    "stock": 31,
+    "tags": [
+      "wireless-charging",
+      "portable",
+      "bass-boost"
+    ],
+    "discount": 5,
+    "reviews": 1124,
+    "shipping_time_days": 4,
+    "description": "NotePro LAP Model 5 with features: wireless-charging, portable, bass-boost."
+  },
+  {
+    "id": 13,
+    "name": "DeskGear LAP Model 6",
+    "category": "Laptops",
+    "brand": "DeskGear",
+    "price": 50153,
+    "rating": 4.9,
+    "stock": 28,
+    "tags": [
+      "dslr",
+      "wireless-charging",
+      "rgb-backlit"
+    ],
+    "discount": 0,
+    "reviews": 30,
+    "shipping_time_days": 2,
+    "description": "DeskGear LAP Model 6 with features: dslr, wireless-charging, rgb-backlit."
+  },
+  {
+    "id": 14,
+    "name": "UltraSys LAP Model 7",
+    "category": "Laptops",
+    "brand": "UltraSys",
+    "price": 55320,
+    "rating": 3.5,
+    "stock": 22,
+    "tags": [
+      "smart-home",
+      "4k",
+      "mirrorless"
+    ],
+    "discount": 25,
+    "reviews": 870,
+    "shipping_time_days": 1,
+    "description": "UltraSys LAP Model 7 with features: smart-home, 4k, mirrorless."
+  },
+  {
+    "id": 15,
+    "name": "Beatix AUD Model 1",
+    "category": "Audio",
+    "brand": "Beatix",
+    "price": 3551,
+    "rating": 4.2,
+    "stock": 45,
+    "tags": [
+      "gaming",
+      "mirrorless",
+      "noise-canceling"
+    ],
+    "discount": 30,
+    "reviews": 1107,
+    "shipping_time_days": 4,
+    "description": "Beatix AUD Model 1 with features: gaming, mirrorless, noise-canceling."
+  },
+  {
+    "id": 16,
+    "name": "Beatix AUD Model 2",
+    "category": "Audio",
+    "brand": "Beatix",
+    "price": 19410,
+    "rating": 4.5,
+    "stock": 25,
+    "tags": [
+      "noise-canceling",
+      "fitness-tracking",
+      "4k"
+    ],
+    "discount": 15,
+    "reviews": 77,
+    "shipping_time_days": 5,
+    "description": "Beatix AUD Model 2 with features: noise-canceling, fitness-tracking, 4k."
+  },
+  {
+    "id": 17,
+    "name": "AudioWave AUD Model 3",
+    "category": "Audio",
+    "brand": "AudioWave",
+    "price": 15068,
+    "rating": 4.0,
+    "stock": 40,
+    "tags": [
+      "portable",
+      "long-battery",
+      "mirrorless"
+    ],
+    "discount": 0,
+    "reviews": 1479,
+    "shipping_time_days": 7,
+    "description": "AudioWave AUD Model 3 with features: portable, long-battery, mirrorless."
+  },
+  {
+    "id": 18,
+    "name": "SoundMax AUD Model 4",
+    "category": "Audio",
+    "brand": "SoundMax",
+    "price": 13693,
+    "rating": 4.5,
+    "stock": 47,
+    "tags": [
+      "gaming",
+      "sleep-tracking",
+      "portable"
+    ],
+    "discount": 0,
+    "reviews": 1562,
+    "shipping_time_days": 5,
+    "description": "SoundMax AUD Model 4 with features: gaming, sleep-tracking, portable."
+  },
+  {
+    "id": 19,
+    "name": "SonicPro AUD Model 5",
+    "category": "Audio",
+    "brand": "SonicPro",
+    "price": 19113,
+    "rating": 3.9,
+    "stock": 41,
+    "tags": [
+      "wireless-charging",
+      "waterproof",
+      "sleep-tracking"
+    ],
+    "discount": 15,
+    "reviews": 764,
+    "shipping_time_days": 2,
+    "description": "SonicPro AUD Model 5 with features: wireless-charging, waterproof, sleep-tracking."
+  },
+  {
+    "id": 20,
+    "name": "AudioWave AUD Model 6",
+    "category": "Audio",
+    "brand": "AudioWave",
+    "price": 18444,
+    "rating": 3.7,
+    "stock": 10,
+    "tags": [
+      "gps",
+      "stylus",
+      "dslr"
+    ],
+    "discount": 15,
+    "reviews": 137,
+    "shipping_time_days": 7,
+    "description": "AudioWave AUD Model 6 with features: gps, stylus, dslr."
+  },
+  {
+    "id": 21,
+    "name": "SoundMax AUD Model 7",
+    "category": "Audio",
+    "brand": "SoundMax",
+    "price": 16400,
+    "rating": 4.5,
+    "stock": 22,
+    "tags": [
+      "rgb-backlit",
+      "bass-boost",
+      "noise-reduction"
+    ],
+    "discount": 25,
+    "reviews": 933,
+    "shipping_time_days": 3,
+    "description": "SoundMax AUD Model 7 with features: rgb-backlit, bass-boost, noise-reduction."
+  },
+  {
+    "id": 22,
+    "name": "PulseWear WEA Model 1",
+    "category": "Wearables",
+    "brand": "PulseWear",
+    "price": 2925,
+    "rating": 3.7,
+    "stock": 20,
+    "tags": [
+      "hdd",
+      "touchscreen",
+      "lightweight"
+    ],
+    "discount": 10,
+    "reviews": 1034,
+    "shipping_time_days": 1,
+    "description": "PulseWear WEA Model 1 with features: hdd, touchscreen, lightweight."
+  },
+  {
+    "id": 23,
+    "name": "TimeTech WEA Model 2",
+    "category": "Wearables",
+    "brand": "TimeTech",
+    "price": 9369,
+    "rating": 4.8,
+    "stock": 21,
+    "tags": [
+      "gaming",
+      "4k",
+      "hdd"
+    ],
+    "discount": 5,
+    "reviews": 426,
+    "shipping_time_days": 3,
+    "description": "TimeTech WEA Model 2 with features: gaming, 4k, hdd."
+  },
+  {
+    "id": 24,
+    "name": "TimeTech WEA Model 3",
+    "category": "Wearables",
+    "brand": "TimeTech",
+    "price": 15047,
+    "rating": 3.6,
+    "stock": 32,
+    "tags": [
+      "gaming",
+      "fast-charge",
+      "hdd"
+    ],
+    "discount": 5,
+    "reviews": 1562,
+    "shipping_time_days": 1,
+    "description": "TimeTech WEA Model 3 with features: gaming, fast-charge, hdd."
+  },
+  {
+    "id": 25,
+    "name": "FitLine WEA Model 4",
+    "category": "Wearables",
+    "brand": "FitLine",
+    "price": 10790,
+    "rating": 4.3,
+    "stock": 5,
+    "tags": [
+      "voice-assist",
+      "fitness-tracking",
+      "gaming"
+    ],
+    "discount": 10,
+    "reviews": 1145,
+    "shipping_time_days": 5,
+    "description": "FitLine WEA Model 4 with features: voice-assist, fitness-tracking, gaming."
+  },
+  {
+    "id": 26,
+    "name": "FitLine WEA Model 5",
+    "category": "Wearables",
+    "brand": "FitLine",
+    "price": 19504,
+    "rating": 3.7,
+    "stock": 30,
+    "tags": [
+      "ssd",
+      "bass-boost",
+      "dslr"
+    ],
+    "discount": 30,
+    "reviews": 67,
+    "shipping_time_days": 3,
+    "description": "FitLine WEA Model 5 with features: ssd, bass-boost, dslr."
+  },
+  {
+    "id": 27,
+    "name": "PulseWear WEA Model 6",
+    "category": "Wearables",
+    "brand": "PulseWear",
+    "price": 13158,
+    "rating": 4.1,
+    "stock": 14,
+    "tags": [
+      "sleep-tracking",
+      "hdd",
+      "lightweight"
+    ],
+    "discount": 20,
+    "reviews": 1310,
+    "shipping_time_days": 1,
+    "description": "PulseWear WEA Model 6 with features: sleep-tracking, hdd, lightweight."
+  },
+  {
+    "id": 28,
+    "name": "PulseWear WEA Model 7",
+    "category": "Wearables",
+    "brand": "PulseWear",
+    "price": 13252,
+    "rating": 4.5,
+    "stock": 7,
+    "tags": [
+      "noise-reduction",
+      "wireless",
+      "heart-rate"
+    ],
+    "discount": 30,
+    "reviews": 953,
+    "shipping_time_days": 3,
+    "description": "PulseWear WEA Model 7 with features: noise-reduction, wireless, heart-rate."
+  },
+  {
+    "id": 29,
+    "name": "Zoomix CAM Model 1",
+    "category": "Cameras",
+    "brand": "Zoomix",
+    "price": 97708,
+    "rating": 4.0,
+    "stock": 49,
+    "tags": [
+      "rgb-backlit",
+      "fitness-tracking",
+      "gps"
+    ],
+    "discount": 30,
+    "reviews": 404,
+    "shipping_time_days": 2,
+    "description": "Zoomix CAM Model 1 with features: rgb-backlit, fitness-tracking, gps."
+  },
+  {
+    "id": 30,
+    "name": "Zoomix CAM Model 2",
+    "category": "Cameras",
+    "brand": "Zoomix",
+    "price": 31368,
+    "rating": 4.7,
+    "stock": 24,
+    "tags": [
+      "hdd",
+      "4k",
+      "sleep-tracking"
+    ],
+    "discount": 5,
+    "reviews": 1763,
+    "shipping_time_days": 5,
+    "description": "Zoomix CAM Model 2 with features: hdd, 4k, sleep-tracking."
+  },
+  {
+    "id": 31,
+    "name": "Zoomix CAM Model 3",
+    "category": "Cameras",
+    "brand": "Zoomix",
+    "price": 111604,
+    "rating": 3.6,
+    "stock": 18,
+    "tags": [
+      "ultrabook",
+      "4k",
+      "hdd"
+    ],
+    "discount": 30,
+    "reviews": 1249,
+    "shipping_time_days": 3,
+    "description": "Zoomix CAM Model 3 with features: ultrabook, 4k, hdd."
+  },
+  {
+    "id": 32,
+    "name": "FotoMax CAM Model 4",
+    "category": "Cameras",
+    "brand": "FotoMax",
+    "price": 114768,
+    "rating": 3.6,
+    "stock": 24,
+    "tags": [
+      "waterproof",
+      "ultrabook",
+      "rgb-backlit"
+    ],
+    "discount": 20,
+    "reviews": 1577,
+    "shipping_time_days": 7,
+    "description": "FotoMax CAM Model 4 with features: waterproof, ultrabook, rgb-backlit."
+  },
+  {
+    "id": 33,
+    "name": "OptiLens CAM Model 5",
+    "category": "Cameras",
+    "brand": "OptiLens",
+    "price": 78615,
+    "rating": 4.4,
+    "stock": 17,
+    "tags": [
+      "sleep-tracking",
+      "rgb-backlit",
+      "stylus"
+    ],
+    "discount": 20,
+    "reviews": 714,
+    "shipping_time_days": 2,
+    "description": "OptiLens CAM Model 5 with features: sleep-tracking, rgb-backlit, stylus."
+  },
+  {
+    "id": 34,
+    "name": "Zoomix CAM Model 6",
+    "category": "Cameras",
+    "brand": "Zoomix",
+    "price": 146333,
+    "rating": 4.3,
+    "stock": 17,
+    "tags": [
+      "fitness-tracking",
+      "wireless",
+      "long-battery"
+    ],
+    "discount": 0,
+    "reviews": 50,
+    "shipping_time_days": 4,
+    "description": "Zoomix CAM Model 6 with features: fitness-tracking, wireless, long-battery."
+  },
+  {
+    "id": 35,
+    "name": "Zoomix CAM Model 7",
+    "category": "Cameras",
+    "brand": "Zoomix",
+    "price": 49574,
+    "rating": 4.2,
+    "stock": 2,
+    "tags": [
+      "ssd",
+      "touchscreen",
+      "lightweight"
+    ],
+    "discount": 10,
+    "reviews": 1792,
+    "shipping_time_days": 3,
+    "description": "Zoomix CAM Model 7 with features: ssd, touchscreen, lightweight."
+  },
+  {
+    "id": 36,
+    "name": "ChargePro ACC Model 1",
+    "category": "Accessories",
+    "brand": "ChargePro",
+    "price": 5095,
+    "rating": 4.8,
+    "stock": 29,
+    "tags": [
+      "hdd",
+      "voice-assist",
+      "wireless-charging"
+    ],
+    "discount": 10,
+    "reviews": 1455,
+    "shipping_time_days": 5,
+    "description": "ChargePro ACC Model 1 with features: hdd, voice-assist, wireless-charging."
+  },
+  {
+    "id": 37,
+    "name": "CaseIt ACC Model 2",
+    "category": "Accessories",
+    "brand": "CaseIt",
+    "price": 2825,
+    "rating": 4.6,
+    "stock": 14,
+    "tags": [
+      "noise-reduction",
+      "gaming",
+      "4k"
+    ],
+    "discount": 10,
+    "reviews": 354,
+    "shipping_time_days": 4,
+    "description": "CaseIt ACC Model 2 with features: noise-reduction, gaming, 4k."
+  },
+  {
+    "id": 38,
+    "name": "LinkGear ACC Model 3",
+    "category": "Accessories",
+    "brand": "LinkGear",
+    "price": 3680,
+    "rating": 3.6,
+    "stock": 0,
+    "tags": [
+      "ssd",
+      "smart-home",
+      "long-battery"
+    ],
+    "discount": 5,
+    "reviews": 105,
+    "shipping_time_days": 3,
+    "description": "LinkGear ACC Model 3 with features: ssd, smart-home, long-battery."
+  },
+  {
+    "id": 39,
+    "name": "ChargePro ACC Model 4",
+    "category": "Accessories",
+    "brand": "ChargePro",
+    "price": 6456,
+    "rating": 4.6,
+    "stock": 33,
+    "tags": [
+      "sleep-tracking",
+      "fast-charge",
+      "waterproof"
+    ],
+    "discount": 15,
+    "reviews": 1782,
+    "shipping_time_days": 4,
+    "description": "ChargePro ACC Model 4 with features: sleep-tracking, fast-charge, waterproof."
+  },
+  {
+    "id": 40,
+    "name": "ChargePro ACC Model 5",
+    "category": "Accessories",
+    "brand": "ChargePro",
+    "price": 2512,
+    "rating": 4.3,
+    "stock": 6,
+    "tags": [
+      "rgb-backlit",
+      "voice-assist",
+      "touchscreen"
+    ],
+    "discount": 20,
+    "reviews": 582,
+    "shipping_time_days": 2,
+    "description": "ChargePro ACC Model 5 with features: rgb-backlit, voice-assist, touchscreen."
+  },
+  {
+    "id": 41,
+    "name": "CaseIt ACC Model 6",
+    "category": "Accessories",
+    "brand": "CaseIt",
+    "price": 5404,
+    "rating": 4.9,
+    "stock": 26,
+    "tags": [
+      "gps",
+      "rgb-backlit",
+      "ultrabook"
+    ],
+    "discount": 0,
+    "reviews": 1177,
+    "shipping_time_days": 4,
+    "description": "CaseIt ACC Model 6 with features: gps, rgb-backlit, ultrabook."
+  },
+  {
+    "id": 42,
+    "name": "GripPlus ACC Model 7",
+    "category": "Accessories",
+    "brand": "GripPlus",
+    "price": 4436,
+    "rating": 4.0,
+    "stock": 31,
+    "tags": [
+      "lightweight",
+      "fast-charge",
+      "dual-sim"
+    ],
+    "discount": 0,
+    "reviews": 510,
+    "shipping_time_days": 2,
+    "description": "GripPlus ACC Model 7 with features: lightweight, fast-charge, dual-sim."
+  },
+  {
+    "id": 43,
+    "name": "HomeEase HOM Model 1",
+    "category": "Home Appliances",
+    "brand": "HomeEase",
+    "price": 28953,
+    "rating": 4.8,
+    "stock": 0,
+    "tags": [
+      "mirrorless",
+      "portable",
+      "fitness-tracking"
+    ],
+    "discount": 20,
+    "reviews": 71,
+    "shipping_time_days": 1,
+    "description": "HomeEase HOM Model 1 with features: mirrorless, portable, fitness-tracking."
+  },
+  {
+    "id": 44,
+    "name": "CoolAir HOM Model 2",
+    "category": "Home Appliances",
+    "brand": "CoolAir",
+    "price": 31051,
+    "rating": 4.5,
+    "stock": 11,
+    "tags": [
+      "waterproof",
+      "ultrabook",
+      "smart-home"
+    ],
+    "discount": 25,
+    "reviews": 1693,
+    "shipping_time_days": 3,
+    "description": "CoolAir HOM Model 2 with features: waterproof, ultrabook, smart-home."
+  },
+  {
+    "id": 45,
+    "name": "CoolAir HOM Model 3",
+    "category": "Home Appliances",
+    "brand": "CoolAir",
+    "price": 36283,
+    "rating": 3.5,
+    "stock": 23,
+    "tags": [
+      "gps",
+      "lightweight",
+      "rgb-backlit"
+    ],
+    "discount": 5,
+    "reviews": 858,
+    "shipping_time_days": 2,
+    "description": "CoolAir HOM Model 3 with features: gps, lightweight, rgb-backlit."
+  },
+  {
+    "id": 46,
+    "name": "HeatWell HOM Model 4",
+    "category": "Home Appliances",
+    "brand": "HeatWell",
+    "price": 28103,
+    "rating": 4.3,
+    "stock": 24,
+    "tags": [
+      "gaming",
+      "ssd",
+      "wireless"
+    ],
+    "discount": 10,
+    "reviews": 295,
+    "shipping_time_days": 4,
+    "description": "HeatWell HOM Model 4 with features: gaming, ssd, wireless."
+  },
+  {
+    "id": 47,
+    "name": "HomeEase HOM Model 5",
+    "category": "Home Appliances",
+    "brand": "HomeEase",
+    "price": 10756,
+    "rating": 3.7,
+    "stock": 22,
+    "tags": [
+      "touchscreen",
+      "voice-assist",
+      "noise-canceling"
+    ],
+    "discount": 15,
+    "reviews": 1076,
+    "shipping_time_days": 3,
+    "description": "HomeEase HOM Model 5 with features: touchscreen, voice-assist, noise-canceling."
+  },
+  {
+    "id": 48,
+    "name": "KitchenPro HOM Model 6",
+    "category": "Home Appliances",
+    "brand": "KitchenPro",
+    "price": 26275,
+    "rating": 3.8,
+    "stock": 3,
+    "tags": [
+      "ultrabook",
+      "hdd",
+      "sleep-tracking"
+    ],
+    "discount": 30,
+    "reviews": 204,
+    "shipping_time_days": 5,
+    "description": "KitchenPro HOM Model 6 with features: ultrabook, hdd, sleep-tracking."
+  },
+  {
+    "id": 49,
+    "name": "KitchenPro HOM Model 7",
+    "category": "Home Appliances",
+    "brand": "KitchenPro",
+    "price": 7924,
+    "rating": 4.6,
+    "stock": 13,
+    "tags": [
+      "dslr",
+      "long-battery",
+      "mirrorless"
+    ],
+    "discount": 5,
+    "reviews": 1804,
+    "shipping_time_days": 4,
+    "description": "KitchenPro HOM Model 7 with features: dslr, long-battery, mirrorless."
+  },
+  {
+    "id": 50,
+    "name": "FitLine FIT Model 1",
+    "category": "Fitness",
+    "brand": "FitLine",
+    "price": 1848,
+    "rating": 3.7,
+    "stock": 50,
+    "tags": [
+      "gaming",
+      "fitness-tracking",
+      "wireless"
+    ],
+    "discount": 0,
+    "reviews": 309,
+    "shipping_time_days": 2,
+    "description": "FitLine FIT Model 1 with features: gaming, fitness-tracking, wireless."
+  },
+  {
+    "id": 51,
+    "name": "ProFit FIT Model 2",
+    "category": "Fitness",
+    "brand": "ProFit",
+    "price": 29693,
+    "rating": 4.9,
+    "stock": 42,
+    "tags": [
+      "dslr",
+      "wireless",
+      "lightweight"
+    ],
+    "discount": 0,
+    "reviews": 954,
+    "shipping_time_days": 7,
+    "description": "ProFit FIT Model 2 with features: dslr, wireless, lightweight."
+  },
+  {
+    "id": 52,
+    "name": "FitLine FIT Model 3",
+    "category": "Fitness",
+    "brand": "FitLine",
+    "price": 10303,
+    "rating": 4.5,
+    "stock": 22,
+    "tags": [
+      "rgb-backlit",
+      "gps",
+      "sleep-tracking"
+    ],
+    "discount": 5,
+    "reviews": 1683,
+    "shipping_time_days": 2,
+    "description": "FitLine FIT Model 3 with features: rgb-backlit, gps, sleep-tracking."
+  },
+  {
+    "id": 53,
+    "name": "FitLine FIT Model 4",
+    "category": "Fitness",
+    "brand": "FitLine",
+    "price": 29765,
+    "rating": 4.0,
+    "stock": 9,
+    "tags": [
+      "gaming",
+      "smart-home",
+      "noise-canceling"
+    ],
+    "discount": 10,
+    "reviews": 680,
+    "shipping_time_days": 7,
+    "description": "FitLine FIT Model 4 with features: gaming, smart-home, noise-canceling."
+  },
+  {
+    "id": 54,
+    "name": "ProFit FIT Model 5",
+    "category": "Fitness",
+    "brand": "ProFit",
+    "price": 24146,
+    "rating": 4.6,
+    "stock": 3,
+    "tags": [
+      "wireless",
+      "touchscreen",
+      "gaming"
+    ],
+    "discount": 0,
+    "reviews": 1903,
+    "shipping_time_days": 2,
+    "description": "ProFit FIT Model 5 with features: wireless, touchscreen, gaming."
+  },
+  {
+    "id": 55,
+    "name": "ProFit FIT Model 6",
+    "category": "Fitness",
+    "brand": "ProFit",
+    "price": 16866,
+    "rating": 3.7,
+    "stock": 50,
+    "tags": [
+      "noise-canceling",
+      "gps",
+      "voice-assist"
+    ],
+    "discount": 30,
+    "reviews": 1322,
+    "shipping_time_days": 5,
+    "description": "ProFit FIT Model 6 with features: noise-canceling, gps, voice-assist."
+  },
+  {
+    "id": 56,
+    "name": "ProFit FIT Model 7",
+    "category": "Fitness",
+    "brand": "ProFit",
+    "price": 29082,
+    "rating": 4.9,
+    "stock": 35,
+    "tags": [
+      "heart-rate",
+      "portable",
+      "lightweight"
+    ],
+    "discount": 30,
+    "reviews": 863,
+    "shipping_time_days": 1,
+    "description": "ProFit FIT Model 7 with features: heart-rate, portable, lightweight."
+  },
+  {
+    "name": "UltraSys PRO Gaming X",
+    "category": "Laptops",
+    "brand": "UltraSys",
+    "price": 199999,
+    "rating": 4.9,
+    "stock": 3,
+    "tags": [
+      "gaming",
+      "rgb-backlit",
+      "ssd"
+    ],
+    "discount": 15,
+    "reviews": 1200,
+    "shipping_time_days": 2,
+    "description": "Top-tier gaming laptop.",
+    "id": 57
+  },
+  {
+    "name": "FotoMax Elite 4K",
+    "category": "Cameras",
+    "brand": "FotoMax",
+    "price": 219999,
+    "rating": 4.8,
+    "stock": 2,
+    "tags": [
+      "4k",
+      "dslr",
+      "mirrorless"
+    ],
+    "discount": 10,
+    "reviews": 800,
+    "shipping_time_days": 3,
+    "description": "Professional 4K camera.",
+    "id": 58
+  },
+  {
+    "name": "XMobile Flagship Z",
+    "category": "Mobiles",
+    "brand": "XMobile",
+    "price": 99999,
+    "rating": 4.85,
+    "stock": 5,
+    "tags": [
+      "fast-charge",
+      "4k",
+      "wireless-charging"
+    ],
+    "discount": 20,
+    "reviews": 1500,
+    "shipping_time_days": 1,
+    "description": "Flagship mobile with premium specs.",
+    "id": 59
+  },
+  {
+    "name": "HomeEase Smart Oven Pro",
+    "category": "Home Appliances",
+    "brand": "HomeEase",
+    "price": 75999,
+    "rating": 4.7,
+    "stock": 6,
+    "tags": [
+      "smart-home",
+      "fast",
+      "easy-clean"
+    ],
+    "discount": 18,
+    "reviews": 400,
+    "shipping_time_days": 4,
+    "description": "Smart oven with multiple modes.",
+    "id": 60
+  }
+]

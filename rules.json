@@ -1,0 +1,72 @@
+[
+  {
+    "id": "R1",
+    "name": "High Discount Offer",
+    "condition": "product['discount'] >= 20",
+    "action": "score += 10",
+    "reason": "Product has a high discount (≥20%)"
+  },
+  {
+    "id": "R2",
+    "name": "Affordable Price",
+    "condition": "product['price'] <= prefs['budget']",
+    "action": "score += 8",
+    "reason": "Product fits within user's budget"
+  },
+  {
+    "id": "R3",
+    "name": "Preferred Brand",
+    "condition": "product['brand'].lower() == prefs['preferred_brand'].lower()",
+    "action": "score += 7",
+    "reason": "Matches preferred brand"
+  },
+  {
+    "id": "R4",
+    "name": "High Rating",
+    "condition": "product['rating'] >= 4.2",
+    "action": "score += 6",
+    "reason": "Highly rated product"
+  },
+  {
+    "id": "R5",
+    "name": "Fast Shipping",
+    "condition": "product['shipping_days'] <= 3",
+    "action": "score += 5",
+    "reason": "Quick delivery available"
+  },
+  {
+    "id": "R6",
+    "name": "In Stock",
+    "condition": "product['stock'] > 0",
+    "action": "score += 4",
+    "reason": "Product is currently available"
+  },
+  {
+    "id": "R7",
+    "name": "New Arrival Boost",
+    "condition": "product['is_new'] == True",
+    "action": "score += 3",
+    "reason": "Newly launched product"
+  },
+  {
+    "id": "R8",
+    "name": "Trusted Brand Bonus",
+    "condition": "product['brand'] in prefs['trusted_brands']",
+    "action": "score += 5",
+    "reason": "Brand belongs to trusted list"
+  },
+  {
+    "id": "R9",
+    "name": "Budget Exceeded",
+    "condition": "product['price'] > prefs['budget']",
+    "action": "score -= 15",
+    "reason": "Product exceeds budget"
+  },
+  {
+    "id": "R10",
+    "name": "Low Stock Alert",
+    "condition": "product['stock'] <= 2",
+    "action": "score += 2",
+    "reason": "Low stock urgency"
+  }
+]

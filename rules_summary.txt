@@ -1,0 +1,56 @@
+Enhanced Rule Set (Formal and Natural Language)
+
+1. HighDiscount(p):
+   - Predicate: Discount(p, d) ∧ d ≥ 20 ∧ StockAvailable(p)
+   - Effect: Mark as 'Best Deal', weight +2.0
+   - Rationale: Users are attracted to strong discounts.
+
+2. LowStock(p):
+   - Predicate: Stock(p, s) ∧ 0 < s < 5
+   - Effect: Mark as 'Limited Stock', weight +1.5
+   - Rationale: Scarcity urgency increases conversion.
+
+3. BrandLoyalty(p, u):
+   - Predicate: PrefersBrand(u, b) ∧ Brand(p, b)
+   - Effect: Weight +3.0 (or learned weight if historical preference)
+   - Rationale: Repeat purchases for trusted brands.
+
+4. PriceAffordable(p, u):
+   - Predicate: EffectivePrice(p) ≤ Budget(u) (within 10% considered)
+   - Effect: Weight +2.0 (full) or +0.5 (slightly above)
+   - Rationale: Respect user's budget constraint.
+
+5. HighlyRatedAndPopular(p):
+   - Predicate: Rating(p) ≥ 4.3 ∧ Reviews(p) ≥ 100
+   - Effect: Weight +2.5
+   - Rationale: Social proof and quality signals improve reliability.
+
+6. FeatureMatch(p, u):
+   - Predicate: ∃f (HasFeature(p, f) ∧ SearchKeyword(u, f))
+   - Effect: Weight +3.0
+   - Rationale: Direct match to user's needs.
+
+7. CategoryInterest(p, u):
+   - Predicate: InterestedIn(u, c) ∧ Category(p, c)
+   - Effect: Weight +2.0
+   - Rationale: Contextual relevance.
+
+8. PricePerformance(p):
+   - Predicate: (Rating(p) / EffectivePrice(p)) × 1000 ≥ Threshold
+   - Effect: Weight +2.0
+   - Rationale: Value-for-money recommendations.
+
+9. LoyaltyBonus(p, u):
+   - Predicate: LoyaltyPoints(u) ≥ 500 ∧ EffectivePrice(p) ≤ Budget(u)
+   - Effect: Small boost (0.05)
+   - Rationale: Reward loyal users.
+
+10. FastShipping(p):
+    - Predicate: ShippingTime(p) ≤ 3 ∧ StockAvailable(p)
+    - Effect: Weight +1.0
+    - Rationale: Immediate delivery preference.
+
+11. BoughtTogether(p, q):
+    - Predicate: BoughtTogether(p, q) ∧ InCart(u, p)
+    - Effect: Recommend complementary items.
+    - Rationale: Increase basket size and convenience.
